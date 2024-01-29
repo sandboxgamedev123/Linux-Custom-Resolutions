@@ -1,5 +1,5 @@
 # Linux-Custom-Resolutions
-A script that adds custom resolutions and refresh rates for installations of Linux. The script was created for Linux Mint 21.2 but could work well with other distros.
+A script that adds custom resolutions and refresh rates for installations of Linux. The script was created for Linux Mint 21.2 Cinnamon x64 but it could work well with other distros.
 
 Open a command-line window and enter "gtf" with the resolution and refresh rate desired such as "gtf 2560 1440 60".
 The "xrandr" command can be used to determine the name of the display such as "HDMI-A-0".
